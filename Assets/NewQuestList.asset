@@ -1,0 +1,186 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dca0e22e5aaa924291bbadc545ef9fb, type: 3}
+  m_Name: NewQuestList
+  m_EditorClassIdentifier: 
+  myTextAsset: {fileID: 4900000, guid: 36e66757cd4ec524685afd6be4cb667b, type: 3}
+  quests:
+  - index: 0
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 1
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 2
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 3
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 4
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 5
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 6
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 7
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 8
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 9
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 10
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 11
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 12
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 13
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 14
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 15
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 16
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 17
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 18
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 19
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 20
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 21
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 22
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 23
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 24
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 25
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 26
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 27
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 28
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 29
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 30
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
+  - index: 31
+    title: Convaincre par la force
+    description: Talk an ennemy into it
+    rewardType: 4
+    rewardValue: 3
+  - index: 32
+    title: Faire les courses
+    description: Collect them
+    rewardType: 1
+    rewardValue: 100
+  - index: 33
+    title: Prendre les rennes
+    description: Reach a certain value
+    rewardType: 0
+    rewardValue: 10
